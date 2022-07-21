@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "My test post"
 date:   2022-07-21 17:32:09 +0530
 categories: jekyll update
 ---
